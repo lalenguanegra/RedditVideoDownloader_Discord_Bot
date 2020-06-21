@@ -11,3 +11,13 @@ https://github.com/Rapptz/discord.py
 [Demo](https://youtu.be/D57du8a8xD8)
 
 ![Reddit](https://www.adweek.com/wp-content/uploads/2019/10/Reddit-Logo-Horizontal.png)
+
+commands:
+
+!red // to add a Reddit link
+
+!go // to initiate the download
+
+!email // to email the .mp4 file
+
+!gone // to delete the .mp4 file on the target machine
