@@ -8,8 +8,6 @@ https://ffmpeg.org
 
 https://github.com/Rapptz/discord.py
 
-[Demo](https://youtu.be/D57du8a8xD8)
-
 ![Reddit](https://www.adweek.com/wp-content/uploads/2019/10/Reddit-Logo-Horizontal.png)
 
 commands:
